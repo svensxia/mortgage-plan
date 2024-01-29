@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class App
 {
-    static String filepath = "C:/Users/admin/IdeaProjects/Codetest-Mortageplan/prospects.txt";
+    static String filepath = "././././prospects.txt";
     static ArrayList<String> list = new ArrayList<>();
     static ArrayList<String> person1 = new ArrayList<>();
     static ArrayList<String> person2 = new ArrayList<>();
