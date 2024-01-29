@@ -3,17 +3,16 @@ package org.example;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class App
 {
     static String filepath = "C:/Users/admin/IdeaProjects/Codetest-Mortageplan/prospects.txt";
-    static ArrayList<String> list = new ArrayList<String>();
-    static ArrayList<String> person1 = new ArrayList<String>();
-    static ArrayList<String> person2 = new ArrayList<String>();
-    static ArrayList<String> person3 = new ArrayList<String>();
-    static ArrayList<String> person4 = new ArrayList<String>();
+    static ArrayList<String> list = new ArrayList<>();
+    static ArrayList<String> person1 = new ArrayList<>();
+    static ArrayList<String> person2 = new ArrayList<>();
+    static ArrayList<String> person3 = new ArrayList<>();
+    static ArrayList<String> person4 = new ArrayList<>();
 
 
     public static void main( String[] args )
