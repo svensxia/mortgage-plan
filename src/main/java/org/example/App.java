@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class App
 {
-    static String filepath = "././././prospects.txt";
+    static String filepath = "prospects.txt";
     static ArrayList<String> list = new ArrayList<>();
     static ArrayList<String> person1 = new ArrayList<>();
     static ArrayList<String> person2 = new ArrayList<>();
@@ -34,7 +34,7 @@ public class App
             scanner.close();
 
         } catch (FileNotFoundException e){
-            System.out.println("Något gick fel");
+            System.out.println("File not found");
             e.printStackTrace();
         }
 
