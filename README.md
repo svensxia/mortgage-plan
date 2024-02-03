@@ -9,3 +9,7 @@
 2. Open in an IDE, for example IntelliJ IDEA
 3. Open New Project From Version Controll and paste the git link
 4. Run app
+### Docker
+Docker commands
+* docker pull svensxia/mortgage-plan:latest
+* docker run svensxia/mortgage-plan:latest
